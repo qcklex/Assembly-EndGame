@@ -1,7 +1,7 @@
-# Hangman: The Programming Languages Edition AKA Assembly:Endgame
+#  Assembly:Endgame
 
 
-Welcome to **Hangman: The Programming Languages Edition**, a twist on the classic Hangman game where the stakes are higher! Instead of simply guessing letters, every incorrect guess results in the tragic demise of a beloved programming language. Will you save them all, or will you bid farewell to your favorites? 👾💻
+Welcome to **Assembly: Endgame**, a twist on the classic Hangman game where the stakes are higher! Instead of simply guessing letters, every incorrect guess results in the tragic demise of a beloved programming language. Will you save them all, or will you bid farewell to your favorites? 👾💻
 
 ---
 
